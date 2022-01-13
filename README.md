@@ -12,3 +12,5 @@ Bu secim yapildiktan sonra logun icerigi ve arama penceresi ekrana gelir.
 ![Screenshot from 2022-01-12 22-00-20](https://user-images.githubusercontent.com/56187372/149204688-461ab024-f3fb-4a5c-97f2-c381841f3eee.png)
 
 Arama yapmak icin arama penceresine aranmasi istenen kelime girilir ve onaylanir. Logun iceriginin gosterildigi pencere kapanarak yenilendiginde arama yapilmis olur. Cikis yapmak icin arama penceresine Cikis yazilmailidir.
+
+Kodun acıklandıgı youtube videosu:https://youtu.be/EpLmIVNXeKI
